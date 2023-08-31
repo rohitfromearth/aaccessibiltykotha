@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aaccessibiltykotha</string>
+    <string name="accessibility_service_description">My description is here</string>
+    <string name="accessibility_service_label">Live Action Exlopre</string>
+</resources>
